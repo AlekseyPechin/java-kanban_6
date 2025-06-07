@@ -1,5 +1,7 @@
 package main.model;
 
+import main.taskStatusAndType.Status;
+
 public class Subtask extends Task {
 
     private int idEpic;

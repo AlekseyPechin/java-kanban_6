@@ -3,7 +3,7 @@ package main.managers;
 import main.interfacesForTaskProcessingAndOutput.HistoryManager;
 import main.interfacesForTaskProcessingAndOutput.TaskManager;
 import main.model.Epic;
-import main.model.Status;
+import main.taskStatusAndType.Status;
 import main.model.Subtask;
 import main.model.Task;
 

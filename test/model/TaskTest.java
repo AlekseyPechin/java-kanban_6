@@ -2,7 +2,7 @@ package model;
 
 import main.interfacesForTaskProcessingAndOutput.TaskManager;
 import main.model.Task;
-import static main.model.Status.*;
+import static main.taskStatusAndType.Status.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import main.managers.Managers;

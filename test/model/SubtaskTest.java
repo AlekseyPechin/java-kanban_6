@@ -7,7 +7,7 @@ import main.model.Subtask;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import static main.model.Status.NEW;
+import static main.taskStatusAndType.Status.NEW;
 import static org.junit.jupiter.api.Assertions.*;
 
 class SubtaskTest {

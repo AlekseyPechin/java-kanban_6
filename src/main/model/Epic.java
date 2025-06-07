@@ -1,5 +1,7 @@
 package main.model;
 
+import main.taskStatusAndType.Status;
+
 import java.util.ArrayList;
 
 public class Epic extends Task {
